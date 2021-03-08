@@ -1,0 +1,55 @@
+{
+    "name": "Karan",
+    "email": "karan@berkeley.edu",
+    "jobTitle": "Project Manager",
+    "phone": "1112223333",
+    "imageUrl": "https://www.bootdey.com/img/Content/avatar/avatar2.png"
+}
+
+{
+    "name": "Albert",
+    "email": "albert@berkeley.edu",
+    "jobTitle": "Project Manager",
+    "phone": "4445556666",
+    "imageUrl": "https://www.bootdey.com/img/Content/avatar/avatar1.png"
+}
+
+{
+    "name": "Srikar",
+    "email": "srikar@berkeley.edu",
+    "jobTitle": "Developer",
+    "phone": "7778889999",
+    "imageUrl": "https://www.bootdey.com/img/Content/avatar/avatar5.png"
+}
+
+{
+    "name": "Justina",
+    "email": "justina@berkeley.edu",
+    "jobTitle": "Developer",
+    "phone": "0001112222",
+    "imageUrl": "https://www.bootdey.com/img/Content/avatar/avatar3.png"
+}
+
+{
+    "name": "Shay",
+    "email": "shay@berkeley.edu",
+    "jobTitle": "Developer",
+    "phone": "3334445555",
+    "imageUrl": "https://www.bootdey.com/img/Content/avatar/avatar6.png"
+}
+
+{
+    "name": "Winston",
+    "email": "winston@berkeley.edu",
+    "jobTitle": "Developer",
+    "phone": "6667778888",
+    "imageUrl": "https://www.bootdey.com/img/Content/avatar/avatar7.png"
+}
+
+{
+    "name": "Avy",
+    "email": "avy@berkeley.edu",
+    "jobTitle": "Developer",
+    "phone": "9990001111",
+    "imageUrl": "https://www.bootdey.com/img/Content/avatar/avatar4.png"
+}
